@@ -1,0 +1,13 @@
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\bin\Debug\netcoreapp3.1\SampleProject.Application.deps.json
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\bin\Debug\netcoreapp3.1\SampleProject.Application.dll
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\bin\Debug\netcoreapp3.1\SampleProject.Application.pdb
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\bin\Debug\netcoreapp3.1\SampleProject.Domain.dll
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\bin\Debug\netcoreapp3.1\SampleProject.Domain.pdb
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\obj\Debug\netcoreapp3.1\SampleProject.Application.csproj.AssemblyReference.cache
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\obj\Debug\netcoreapp3.1\SampleProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\obj\Debug\netcoreapp3.1\SampleProject.Application.AssemblyInfoInputs.cache
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\obj\Debug\netcoreapp3.1\SampleProject.Application.AssemblyInfo.cs
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\obj\Debug\netcoreapp3.1\SampleProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\obj\Debug\netcoreapp3.1\SampleProject.Application.csproj.CopyComplete
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\obj\Debug\netcoreapp3.1\SampleProject.Application.dll
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Application\obj\Debug\netcoreapp3.1\SampleProject.Application.pdb

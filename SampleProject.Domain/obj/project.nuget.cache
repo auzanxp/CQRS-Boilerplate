@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QP9zSNoHVwg+6/I7o49cxTql2sjvvpR/oB6dlSIQ8585oi6iJWTFf/kwR3pfqFRnHcllyMCwi//QtafaHJp23w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\istik\\Downloads\\asp.net.cqrs.master\\SampleProject.Domain\\SampleProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\istik\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

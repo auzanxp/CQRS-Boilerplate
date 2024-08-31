@@ -1,0 +1,10 @@
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Domain\bin\Debug\netcoreapp3.1\SampleProject.Domain.deps.json
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Domain\bin\Debug\netcoreapp3.1\SampleProject.Domain.dll
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Domain\bin\Debug\netcoreapp3.1\SampleProject.Domain.pdb
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.csproj.AssemblyReference.cache
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.AssemblyInfoInputs.cache
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.AssemblyInfo.cs
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.dll
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.pdb

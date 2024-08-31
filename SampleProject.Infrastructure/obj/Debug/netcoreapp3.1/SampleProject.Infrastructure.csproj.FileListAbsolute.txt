@@ -1,0 +1,15 @@
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Infrastructure.deps.json
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Infrastructure.dll
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Infrastructure.pdb
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Application.dll
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Domain.dll
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Application.pdb
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Domain.pdb
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.AssemblyInfo.cs
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.csproj.CopyComplete
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.dll
+C:\Users\istik\Downloads\asp.net.cqrs.master\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.pdb
